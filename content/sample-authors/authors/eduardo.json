@@ -1,0 +1,13 @@
+{
+  "uid": "eduardolanda",
+  "name": "Eduardo Landa",
+  "image": "https://logoeduardolanda.s3-us-west-2.amazonaws.com/avatar.jpg",
+  "url": "http://eduardolanda.ca",
+  "location": "Vancouver,BC.",
+  "bio": "Wait? Should I talk about myself? Well, I like learning new tech and dogs. I also like to repeat the same videos from Narutos' fights",
+  "socialUrls": [
+    "https://github.com/eduardolanda",
+    "https://linkedin.com/in/eduardolanda",
+    "mailto:eduardo.landa@outlook.com"
+  ]
+}
